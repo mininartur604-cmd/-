@@ -1,6 +1,6 @@
 # КТ 3 Средства сетевой безопасности
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7d/83/7b/7d837b1e5e3f68fba556057066418f10.gif" alt="Описание" width="150" height = "150">
+  <img src="https://i.pinimg.com/originals/7d/83/7b/7d837b1e5e3f68fba556057066418f10.gif" alt="Описание" width="250" height = "250">
 </div>
 
 NGFW (Next Generation Firewall) - межсетевой экран для глубокой фильтрации трафика, интегрированный с IDS/IPS и обладающий возможностью контролировать и блокировать трафик на уровне приложений.
